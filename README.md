@@ -8,5 +8,11 @@ The goal of the subject Programming of robots and manipulators is to introduce s
 
 Subject enables the students to acquire skills and knowledge of programming industry/mobile robots, manipulators and enables them to extend these skills, integration and deployment in real industry application. The focus is on practical skills of students in laboratory exercises which contains four blocks: Introduction, Robotic Operating System, Simulation and digital twins, and Virtual/Augmented reality in robotics.
 
-Acad. year: 2020/2021  
-Summer semester
+*Acad. year: 2020/2021  
+Summer semester*
+
+
+### content:
+- Seminar Paper - Paper focuses on theme of robotics and Industry 4.0, where described topic is ...
+- Project 1 - ...to be added...
+- Project 2 - ...to be added...
