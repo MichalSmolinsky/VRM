@@ -15,5 +15,5 @@ Summer semester*
 
 ### content:
 - Seminar Paper - Paper focuses on theme of robotics and Industry 4.0, where described topic is machine vision
-- Project 1 - ...to be added...
+- Project 1 - The goal of the project is to control multiple robots using offline programming software ABB RobotStudio
 - Project 2 - ...to be added...
